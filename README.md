@@ -4,4 +4,4 @@ This is part of the training course on R basics I prepared and delivered to biol
 
 Reference "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport" for more detail.
 
-Press and media: nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database
+Press and media: https://www.nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database
