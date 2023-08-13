@@ -2,7 +2,7 @@
 
 This is part of the training course on R basics I prepared & delivered through UNDP to various biologist and NGO representatives active in the environmental sector in Seychelles. 
 
-Reference "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport" for more context.
+Reference "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport" for context.
 
 Media: https://www.nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database
 
