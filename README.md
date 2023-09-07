@@ -2,21 +2,21 @@
 
 In partnership with UNDP, the BioHolistic Database project was initiated to establish Seychelles' National Biodiversity Database system. 
 
-Recognizing that proficient data storage and management are prerequisites for advanced data analysis, I contributed to a broader 4-day training workshop by delivering a presentation on R-based data visualization. This repository contains materials I prepared for that session, the session was aimed at biologists and NGO representatives in Seychelles who are deeply involved in the environmental sector.
+Understanding that streamlined data storage and management underpin sophisticated data analytics, I facilitated a session on R-based data visualization as part of an extensive 4-day training workshop. The content herein reflects materials from my presentation, tailored for biologists and NGO representatives in Seychelles at the forefront of environmental advocacy.
 
-## Key Points:
+## Key Highlights:
 
-Database Introduction: Understanding of the BioHolistic Database.
+Database Overview: Insights into the BioHolistic Database.
 
-Data Management: Best practices, field data collection, and review.
+Data Management: Best practices in field data collection, review, and management.
 
-Hands-on: Direct data entry testing on the new system.
+Interactive Session: Hands-on experience with data entry on the new platform.
 
-Visualization: R techniques for visualizing biodiversity data.
+Visualization: Delving into R techniques for biodata visualization.
 
-Feedback Session: Collaborative system improvement discussions.
+Feedback Round: Collaborative dialogue on refining the system.
 
-Reference: For a deeper understanding of the context, refer to "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport".
+For a comprehensive background, you can refer to "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport" which can be viewed by clicking (here)[https://www.researchgate.net/publication/334465810_Island_Conservation_Society_data_management_Standardise_data_collection_and_extend_current_database]
 
 Media Coverage: [Article]( https://www.nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database) on the UNDP database project and training workshop.
 
