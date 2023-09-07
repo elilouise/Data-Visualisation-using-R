@@ -16,12 +16,8 @@ Visualization: R techniques for visualizing biodiversity data.
 
 Feedback Session: Collaborative system improvement discussions.
 
-Reference: 
+Reference: For a deeper understanding of the context, refer to "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport".
 
-For a deeper understanding of the context, refer to "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport".
-
-Media Coverage: 
-
-[Article]( https://www.nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database) on the UNDP database project and training workshop.
+Media Coverage: [Article]( https://www.nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database) on the UNDP database project and training workshop.
 
 ![UNDP](https://github.com/elilouise/Data-Visualisation-using-R/assets/53550369/c19958bd-e756-4164-ab21-ecd54bdc08ea)
