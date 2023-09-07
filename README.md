@@ -16,7 +16,8 @@ Visualization: Delving into R techniques for biodata visualization.
 
 Feedback Round: Collaborative dialogue on refining the system.
 
-------
+----------------------
+
 For a comprehensive background, you can refer to "Senterreatal2019-ICSBiodiversityDataManagement-FinalReport" which can be viewed by clicking [here](https://www.researchgate.net/publication/334465810_Island_Conservation_Society_data_management_Standardise_data_collection_and_extend_current_database)
 
 <b>In the News</b>: [Media coverage]( https://www.nation.sc/articles/2677/gos-undp-gef-outer-islands-project-funds-new-ics-database) spotlighting the UNDP database initiative and the encompassing training.
