@@ -1,6 +1,6 @@
 ## Data Visualisation using R
 
-In partnership with UNDP, the BioHolistic Database project was initiated to establish Seychelles' National Biodiversity Database system. 
+In partnership with UNDP, the BioHolistic Database project was initiated to establish Seychelles' national biodiversity database system. 
 
 Understanding that streamlined data storage and management underpin sophisticated data analytics, I facilitated a session on R-based data visualization as part of an extensive 4-day training workshop. The content herein reflects materials from my presentation, tailored for biologists and NGO representatives in Seychelles at the forefront of environmental advocacy.
 
