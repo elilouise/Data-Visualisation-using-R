@@ -4,7 +4,7 @@ In partnership with UNDP, the BioHolistic Database project was initiated to esta
 
 Recognizing that proficient data storage and management are prerequisites for advanced data analysis, I contributed to a broader 4-day training workshop by delivering a presentation on R-based data visualization. This repository contains materials I prepared for that session, the session was aimed at biologists and NGO representatives in Seychelles who are deeply involved in the environmental sector.
 
-Key Points:
+### Key Points:
 
 Database Introduction: Understanding of the BioHolistic Database.
 
